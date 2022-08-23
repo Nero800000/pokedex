@@ -9,7 +9,7 @@ import Pokedex from './compenets/pokedex/pokedex'
 import { useEffect, useState } from 'react';
 import { getPokemons,getPokemonsData, SearchPokemon } from './api';
 import { FavoriteProvider } from './context/favorites';
-
+//git push -f origin main  
  const favoritesKey = "Favorites"
  
 function App() {
